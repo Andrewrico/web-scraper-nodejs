@@ -1,0 +1,24 @@
+{
+  "name": "web-scraper-nodejs",
+  "version": "1.0.0",
+  "description": "Web Scraper App",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrewrico/web-scraper-nodejs.git"
+  },
+  "author": "Andrew Rico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrewrico/web-scraper-nodejs/issues"
+  },
+  "homepage": "https://github.com/Andrewrico/web-scraper-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1"
+  }
+}
